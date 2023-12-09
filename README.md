@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "Работа с HTML-формами"
+# Домашнее задание к занятию "Работа с HTML-формами!"
 
 ![CI](https://github.com/sskulikov/ahj-forms/actions/workflows/web.yml/badge.svg)
 
